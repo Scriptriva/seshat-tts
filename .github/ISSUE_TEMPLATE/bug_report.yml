@@ -1,0 +1,64 @@
+name: Bug report
+description: Report a reproducible Seshat TTS problem
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the exact steps.
+      placeholder: |
+        1. Open app
+        2. Select window
+        3. Press hotkey
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version or commit
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+  - type: dropdown
+    id: capture-mode
+    attributes:
+      label: Capture mode
+      options:
+        - monitor
+        - window
+        - unknown
+  - type: dropdown
+    id: voice-mode
+    attributes:
+      label: Voice mode
+      options:
+        - default
+        - custom-wav
+        - unknown
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error text or logs
+      description: Remove secrets before pasting.

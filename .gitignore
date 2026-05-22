@@ -1,0 +1,13 @@
+build/*
+build/launcher/*
+dist/*
+scripts/build_output.txt
+*.egg-info/
+__pycache__/*
+.pytest_cache/*
+.venv/
+*.pyc
+tts_output.wav
+*.log
+src\seshat_tts\__pycache__/*
+api_key.txt

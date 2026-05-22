@@ -1,0 +1,286 @@
+Scriptriva Public Source License 1.0
+
+Copyright (c) 2026 Scriptriva Inc.
+
+This license may be reused for other projects by replacing the copyright owner,
+year, project metadata, support contact, and any project-specific notices. The
+terms below use universal language so the license can govern any software,
+documentation, assets, build scripts, or related materials distributed under it.
+
+This is a public source license. It allows commercial use subject to the terms
+below. It is not the MIT License, and it is not an Open Source Initiative
+approved open source license because it contains attribution, trademark,
+distribution, safety, and same-functionality product restrictions.
+
+1. Definitions
+
+"Licensor" means the person or entity identified in the copyright notice for the
+Licensed Work.
+
+"Licensed Work" means the source code, object code, documentation, graphical
+interface, build scripts, first-party assets, examples, configuration, and other
+materials distributed by Licensor under this license, except for third-party
+materials governed by separate licenses or notices.
+
+"You" means any individual, company, organization, or other legal entity that
+accesses, uses, copies, modifies, distributes, links to, embeds, hosts, or
+otherwise interacts with the Licensed Work.
+
+"Source Form" means the preferred form of the Licensed Work for reading,
+maintaining, or making modifications.
+
+"Object Form" means any compiled, packaged, bundled, generated, minified,
+containerized, hosted, or machine-executable form of the Licensed Work.
+
+"Modification" means any change, translation, adaptation, refactor, port,
+extension, integration, plugin, compilation, packaging, or derivative work based
+on the Licensed Work.
+
+"Public Project" means any repository, package, release, website, distribution,
+service, application, marketplace listing, publication, or other disclosure made
+available outside your own household or internal organization.
+
+"Commercial Use" means any use intended for, connected to, or resulting in
+direct or indirect monetary value, including selling, licensing, hosting,
+offering paid support, bundling with a paid product, including in a commercial
+service, using in revenue-generating operations, using to provide professional
+services, using in a product trial or freemium funnel, or using to gain a
+commercial advantage.
+
+"Same-Functionality Product" means any software, service, product, script,
+workflow, plugin, system, model, dataset, or hosted offering that reproduces,
+substitutes for, markets against, or provides substantially similar core
+functionality to the Licensed Work. The analysis depends on the purpose and
+functionality of the original project, not only on implementation details.
+
+"First-Party Marks and Assets" means names, trademarks, service marks, logos,
+icons, mascots, banners, artwork, screenshots, trade dress, product identities,
+and branding owned or supplied by Licensor.
+
+2. Grant of Rights
+
+Subject to all terms of this license, Licensor grants you a worldwide,
+royalty-free, non-exclusive, non-transferable, non-sublicensable, revocable
+license to:
+
+a. view, read, inspect, and study the Licensed Work;
+
+b. run the Licensed Work for personal, internal, academic, research, evaluation,
+accessibility, interoperability, and Commercial Use;
+
+c. copy the Licensed Work for backup, archival, testing, internal deployment,
+permitted Commercial Use, and permitted distribution;
+
+d. create Modifications for personal, internal, academic, research, evaluation,
+accessibility, interoperability, and Commercial Use;
+
+e. publish patches, bug reports, interoperability notes, benchmarks, security
+findings, documentation, and compatibility layers related to the Licensed Work;
+
+f. distribute the unmodified Licensed Work or Modifications when the distribution
+complies with this license, including the attribution, notice, branding,
+third-party, and Same-Functionality Product restrictions; and
+
+g. link to, call, embed, automate, or interoperate with the Licensed Work when
+your use complies with this license.
+
+No rights are granted except those expressly stated in this license.
+
+3. Attribution and Notice Requirements
+
+If you copy, modify, distribute, link to, embed, reference, host, or publish any
+portion of the Licensed Work in Source Form or Object Form, you must:
+
+a. preserve all copyright, license, attribution, provenance, and third-party
+notice files;
+
+b. include a clear notice identifying the Licensed Work, the Licensor, the
+copyright notice, and the Scriptriva Public Source License 1.0;
+
+c. identify material Modifications you made;
+
+d. provide a copy of this license with the relevant copy, package, repository,
+release, service, documentation, or distribution;
+
+e. avoid implying that Licensor sponsors, endorses, maintains, certifies, or is
+affiliated with your project unless Licensor gives written permission; and
+
+f. preserve third-party notices and comply with third-party licenses for
+components not owned by Licensor.
+
+For graphical applications, documentation sites, public demos, app stores,
+release pages, hosted services, and packaged distributions, attribution must be
+reasonably visible in at least one of: an About window, license page, notices
+file, README, package metadata, documentation page, legal page, or equivalent
+user-accessible location.
+
+4. Commercial Use
+
+Commercial Use is allowed under this license when it complies with all terms of
+this license. You do not need a separate commercial license merely to use the
+Licensed Work commercially, sell services that use the Licensed Work internally,
+or include the Licensed Work in a larger commercial system, provided that your
+use does not violate Sections 5, 6, 7, or any third-party license.
+
+5. Same-Functionality Product Restrictions
+
+You may not, without prior written permission from Licensor:
+
+a. sell, rent, lease, sublicense, monetize, host, or otherwise charge for access
+to the Licensed Work or a Modification as a standalone Same-Functionality
+Product;
+
+b. use the Licensed Work or a Modification to create, operate, improve, train,
+benchmark, market, or distribute a Same-Functionality Product;
+
+c. rebrand the Licensed Work or a Modification as a competing product;
+
+d. offer the Licensed Work or a Modification as a hosted service, cloud service,
+managed service, paid API, subscription product, marketplace product, paid
+plugin, paid desktop application, or paid utility whose primary purpose is
+substantially similar to the Licensed Work; or
+
+e. use the Licensed Work to train, fine-tune, evaluate, benchmark, or improve a
+model, dataset, agent, or automation intended to compete with or replicate the
+core functionality of the Licensed Work.
+
+This section does not prohibit ordinary Commercial Use permitted by Section 4,
+interoperability, independent implementations that do not use the Licensed Work,
+or public criticism, benchmarking, security review, or compatibility testing.
+
+6. Public Projects, Linking, and Modifications
+
+You may reference, link to, embed, or interoperate with the Licensed Work in a
+Public Project, including a commercial Public Project, only if:
+
+a. the Public Project does not violate the Same-Functionality Product
+restrictions in Section 5;
+
+b. the Public Project includes the attribution required by Section 3;
+
+c. your use does not make First-Party Marks and Assets appear to be your own;
+
+d. your repository, package, documentation, or notice file clearly identifies
+which portions are yours and which portions are derived from, include, or
+interface with the Licensed Work; and
+
+e. any Modification of the Licensed Work remains under this license unless
+Licensor gives written permission for another license.
+
+7. Restrictions
+
+You may not:
+
+a. remove, obscure, or alter copyright, license, trademark, attribution,
+provenance, or third-party notice files;
+
+b. use First-Party Marks and Assets in a way that suggests endorsement,
+affiliation, certification, or ownership by you;
+
+c. redistribute First-Party Marks and Assets separately from the Licensed Work
+unless Licensor gives written permission;
+
+d. use the Licensed Work to violate law, privacy rights, publicity rights, voice
+rights, copyright, platform terms, or anti-circumvention rules;
+
+e. use the Licensed Work to clone, synthesize, imitate, capture, extract, or
+process a person's voice, likeness, private data, credentials, or protected
+content without appropriate rights or permission;
+
+f. use the Licensed Work in surveillance, credential theft, fraud, malware,
+spyware, covert data extraction, or deceptive automation workflows;
+
+g. bypass, disable, remove, or misrepresent license notices, support notices,
+security notices, safety checks, provenance indicators, or attribution flows;
+
+h. grant sublicenses or downstream rights broader than the rights granted to you
+under this license; or
+
+i. use the Licensed Work in a manner that creates legal obligations for Licensor
+or requires Licensor to license First-Party Marks and Assets, patents, trade
+secrets, private data, or third-party materials.
+
+8. Contributions
+
+Unless Licensor signs a separate written agreement with you, any patch, pull
+request, issue suggestion, documentation change, bug fix, code sample, asset,
+or other contribution you submit to Licensor may be used, modified, relicensed,
+sublicensed, distributed, and commercialized by Licensor without restriction or
+payment to you. You represent that you have the right to submit the contribution.
+
+9. Trademarks and Branding
+
+This license does not grant trademark rights. Licensor retains all rights in
+First-Party Marks and Assets. You may use the project name only as necessary for
+accurate attribution, compatibility statements, or references to the unmodified
+Licensed Work.
+
+10. Third-Party Components
+
+Third-party components, dependencies, binaries, models, voices, data files,
+fonts, media, and tools are governed by their own licenses and terms. This
+license does not change, replace, expand, or restrict rights you may have under
+those third-party licenses. If a third-party license gives you broader rights
+for that third-party component, those broader rights apply only to that
+third-party component and not to the Licensed Work owned by Licensor.
+
+11. Additional Permissions
+
+Separate permissions, commercial redistribution permissions,
+Same-Functionality Product permissions, branding permissions, trademark
+permissions, and other exceptions may be available from Licensor. For this
+project, support and licensing inquiries may be sent to support@scriptriva.com.
+
+12. Termination
+
+Your rights under this license terminate automatically if you violate any term
+of this license. Upon termination, you must stop using, copying, modifying,
+distributing, hosting, linking to, or otherwise exploiting the Licensed Work and
+destroy or delete all copies under your control, except copies you are legally
+required to retain for archival compliance. Sections intended to survive,
+including attribution, restrictions, third-party notices, trademarks,
+disclaimers, limitation of liability, and governing terms, survive termination.
+
+Licensor may reinstate your rights in writing or by accepting a cure, but
+reinstatement is not automatic unless required by applicable law.
+
+13. No Warranty
+
+THE LICENSED WORK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+SECURITY, ACCURACY, AVAILABILITY, OR ERROR-FREE OPERATION.
+
+14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR AND ITS OFFICERS, EMPLOYEES,
+CONTRACTORS, CONTRIBUTORS, AND LICENSORS WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR BUSINESS-
+INTERRUPTION DAMAGES; LOST PROFITS; LOST REVENUE; LOST DATA; LOSS OF GOODWILL;
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; OR CLAIMS ARISING FROM USE,
+INABILITY TO USE, MODIFICATION, DISTRIBUTION, HOSTING, OR RELIANCE ON THE
+LICENSED WORK, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+15. Compliance With Law
+
+You are responsible for complying with applicable laws, regulations, platform
+terms, export controls, privacy rules, accessibility rules, and intellectual
+property rights when using the Licensed Work.
+
+16. License Versions
+
+This license is version 1.0. Scriptriva Inc. may publish new versions of this
+license. A file explicitly licensed under this version remains under this
+version unless Licensor states otherwise in writing.
+
+17. Severability
+
+If any provision of this license is held unenforceable, the remaining provisions
+remain in effect. The unenforceable provision will be interpreted as closely as
+possible to its original purpose while remaining enforceable.
+
+18. Entire License
+
+This license is the complete agreement for the rights granted here. Any waiver,
+exception, special permission, or alternate license must be in writing from
+Licensor.
