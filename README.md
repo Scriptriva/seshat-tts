@@ -21,6 +21,13 @@ For support inquiries email: support@scriptriva.com
    <img src="resources/anime_meme.gif" alt="Anime girl studying">
 <p>
 
+## Demo
+
+<p align="center">
+  <a href="https://youtu.be/ILbviJkmdcM?si=n48E3UoXPhfxQhUQ">
+    <img src="https://img.youtube.com/vi/ILbviJkmdcM/maxresdefault.jpg" alt="Seshat TTS Demo Video">
+  </a>
+</p>
 
 ## What It Does
 
