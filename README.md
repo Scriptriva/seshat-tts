@@ -14,7 +14,8 @@
 
 Seshat TTS is a Windows GUI utility for realtime audio streaming for games, or apps. Pick a monitor or window, drag one capture region over the text, press one hotkey, and the selected text is extracted with Tesseract OCR or a local vision LLM, then streamed through Kyutai Pocket TTS.
 
-Maintained by Scriptriva Inc.
+Maintained by @cbartos
+Scriptriva Inc. (Dissolved Inactive Corporation)
 
 For support inquiries email: support@scriptriva.com
 <p align="center">
