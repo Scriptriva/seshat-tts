@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Support
     url: mailto:support@scriptriva.com
-    about: Contact Scriptriva Inc. for support inquiries.
+    about: Contact Scriptriva for support inquiries.
   - name: Security vulnerability
     url: mailto:support@scriptriva.com
     about: Please report security issues privately.

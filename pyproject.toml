@@ -6,7 +6,7 @@ requires-python = ">=3.10,<3.15"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
-    { name = "Scriptriva Inc.", email = "support@scriptriva.com" },
+    { name = "Scriptriva", email = "support@scriptriva.com" },
 ]
 keywords = ["ocr", "tts", "accessibility", "screen-capture", "pocket-tts"]
 classifiers = [

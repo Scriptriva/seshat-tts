@@ -121,7 +121,7 @@ class SeshatTtsApp(tk.Tk):
         ).pack(anchor=tk.W, fill=tk.X, pady=(2, 0))
         self._wrap_label(
             header_text,
-            text="Developed by Scriptriva Inc. | support@scriptriva.com",
+            text="Developed by Scriptriva | support@scriptriva.com",
             style="Meta.TLabel",
         ).pack(anchor=tk.W, fill=tk.X, pady=(6, 0))
         ttk.Button(header, text="i", width=3, command=self.show_about, style="IconButton.TButton").pack(
@@ -587,7 +587,7 @@ class SeshatTtsApp(tk.Tk):
         frame.columnconfigure(0, weight=1)
 
         ttk.Label(frame, text="Seshat TTS", style="AboutTitle.TLabel").grid(row=0, column=0, sticky=tk.W)
-        ttk.Label(frame, text="Maintainer: Scriptriva Inc.", style="AboutSubtitle.TLabel").grid(
+        ttk.Label(frame, text="Maintainer: Scriptriva", style="AboutSubtitle.TLabel").grid(
             row=1,
             column=0,
             sticky=tk.W,
@@ -606,7 +606,7 @@ class SeshatTtsApp(tk.Tk):
         )
         ttk.Label(
             frame,
-            text="Project license: Scriptriva Public Source License 1.0",
+            text="Project license: MIT License",
             style="AboutSection.TLabel",
             wraplength=580,
         ).grid(row=3, column=0, sticky=tk.W)

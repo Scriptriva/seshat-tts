@@ -1,14 +1,14 @@
 # Seshat TTS
 
-![Scriptriva Inc.](resources/banner.jpg)
+![Scriptriva](resources/banner.jpg)
 
 <p align="center">
-  <img src="resources/logo.png" alt="Scriptriva Inc. logo" width="160">
+  <img src="resources/logo.png" alt="Scriptriva logo" width="160">
 </p>
 
 [![Python 3.10-3.14](https://img.shields.io/badge/python-3.10--3.14-3776ab?logo=python&logoColor=white)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![License: SPSL 1.0](https://img.shields.io/badge/license-SPSL%201.0-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Pocket TTS](https://img.shields.io/badge/voice-Kyutai%20Pocket%20TTS-111827)](https://github.com/kyutai-labs/pocket-tts)
 [![Tesseract OCR](https://img.shields.io/badge/OCR-Tesseract-4b5563)](https://github.com/tesseract-ocr/tesseract)
 
@@ -16,7 +16,7 @@ Seshat TTS is a Windows GUI utility for realtime audio streaming for games, or a
 
 Maintained by [@cbartos](https://git.scriptriva.com/cbartos) / [@iheuzio](https://github.com/Iheuzio)
 
-Scriptriva Inc. (Dissolved Inactive Corporation)
+Scriptriva
 
 For support inquiries email: support@scriptriva.com
 <p align="center">
@@ -237,11 +237,9 @@ The `python-api` backend is only shown when running from source or the fast laun
 
 ## License and Reuse
 
-Seshat TTS is released under the [Scriptriva Public Source License 1.0](LICENSE).
+Seshat TTS is released under the [MIT License](LICENSE).
 
-Copyright (c) 2026 Scriptriva Inc.
-
-Commercial use is allowed under the license terms. The license preserves attribution, third-party notices, Scriptriva branding rights, safety restrictions, and restrictions on reusing the licensed work to create or distribute a same-functionality product.
+© Scriptriva material is provided under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 Useful reuse boundaries:
 

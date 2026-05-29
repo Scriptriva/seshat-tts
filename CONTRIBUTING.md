@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve Seshat TTS. This project is maintained by Scriptriva Inc. and welcomes focused community contributions.
+Thank you for helping improve Seshat TTS. This project is maintained by Scriptriva and welcomes focused community contributions.
 
 ## Development Setup
 
@@ -32,7 +32,7 @@ python -m pytest -q
 
 ## Licensing
 
-By contributing, you agree that your contribution may be used under the project license and under any future license chosen by Scriptriva Inc. for this project. You also confirm that you have the right to submit the contribution.
+By contributing, you agree that your contribution may be used under the MIT license for this project. You also confirm that you have the right to submit the contribution.
 
 ## Security
 

@@ -18,6 +18,6 @@ Seshat TTS follows the [Contributor Covenant Code of Conduct](https://www.contri
 
 ## Enforcement
 
-Scriptriva Inc. maintainers may moderate, edit, hide, lock, or remove issues, comments, pull requests, and releases that violate this code. Serious or repeated violations may result in a ban from project spaces.
+Scriptriva maintainers may moderate, edit, hide, lock, or remove issues, comments, pull requests, and releases that violate this code. Serious or repeated violations may result in a ban from project spaces.
 
 For conduct concerns, contact support@scriptriva.com.

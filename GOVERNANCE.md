@@ -1,10 +1,10 @@
 # Governance
 
-Seshat TTS is maintained by Scriptriva Inc.
+Seshat TTS is maintained by Scriptriva.
 
 ## Maintainer Authority
 
-Scriptriva Inc. maintainers decide:
+Scriptriva maintainers decide:
 
 - project roadmap and priorities
 - releases and distribution
