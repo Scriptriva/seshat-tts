@@ -23,11 +23,19 @@ For support inquiries email: support@scriptriva.com
    <img src="resources/anime_meme.gif" alt="Anime girl studying">
 <p>
 
-## Demo
+## Short Demo
+
+<p align="center">
+  <a href="https://youtu.be/63xOKf2LD30">
+    <img src="https://img.youtube.com/vi/63xOKf2LD30/maxresdefault.jpg" alt="Seshat text-to-speech Informal Tech Demo">
+  </a>
+</p>
+
+## Informal Tech Demo
 
 <p align="center">
   <a href="https://youtu.be/ILbviJkmdcM?si=n48E3UoXPhfxQhUQ">
-    <img src="https://img.youtube.com/vi/ILbviJkmdcM/maxresdefault.jpg" alt="Seshat TTS Demo Video">
+    <img src="https://img.youtube.com/vi/ILbviJkmdcM/maxresdefault.jpg" alt="Seshat text-to-speech Informal Demo Video">
   </a>
 </p>
 
