@@ -247,7 +247,7 @@ The `python-api` backend is only shown when running from source or the fast laun
 
 Seshat TTS is released under the [MIT License](LICENSE).
 
-© Scriptriva material is provided under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+© Scriptriva logo and banner material in this readme are provided under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 Useful reuse boundaries:
 
